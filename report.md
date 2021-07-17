@@ -13,7 +13,7 @@ JCB
 В результате тестирования выявлены следующие дефекты:
 * Все валидные карты тип - AmericanExpress не валидируются- FAIL
 
-![Не проходит валидация валидных банковских карт тип - AmericanExpress](https://github.com/ElenaTyutina/java/issues/1)
+![Ошибка валидации валидных банковских карт тип - AmericanExpress](https://github.com/ElenaTyutina/java/issues/1)
   
 
 ## Описание процесса тестирования
